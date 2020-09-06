@@ -2,7 +2,7 @@
 CS5460A-based plug power meter color display
 Based on Karl Hagstrom's and Jens Jensen's reverse engineering
 
-*** Be sure you know what your are doing around lethal mains-level voltages. Use at your own risk! ***
+*** Be sure you know what you are doing around lethal mains-level voltages. Use at your own risk! ***
 
 YouTube video:
 
